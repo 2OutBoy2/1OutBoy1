@@ -1,0 +1,16 @@
+.contain {
+    width: 160px;
+    height: 160px;
+    border: 5px;
+    border-radius: 100px;
+    outline: none;
+}
+
+.contain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 10vh;
+}
+
